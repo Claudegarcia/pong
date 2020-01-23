@@ -4,3 +4,7 @@
   background-color: blue;
   border-radius: 4px;
 }
+
+.paddle.player2 {
+  background-color: red;
+}
