@@ -1,0 +1,31 @@
+.obstacle {
+  background: #fff;
+  border: 2px solid #fff;
+  position: absolute;
+  width: 6px;
+  height: 6px;
+}
+
+.obstacle-1,
+.obstacle-2,
+.obstacle-3 {
+  border-top-color: #333;
+}
+
+.obstacle-7,
+.obstacle-8,
+.obstacle-9 {
+  border-bottom-color: #333;
+}
+
+.obstacle-1,
+.obstacle-4,
+.obstacle-7 {
+  border-left-color: #333;
+}
+
+.obstacle-3,
+.obstacle-6,
+.obstacle-9 {
+  border-right-color: #333;
+}
